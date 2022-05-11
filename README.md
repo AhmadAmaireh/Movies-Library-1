@@ -1,6 +1,6 @@
 # Movies-Library - 1.0.0
 
-**Author Name**: Omar Sawalmeh
+**Author Name**:Ahmad Amaireh
 
 ## WRRC
 ### Overview About Web Request Response Cycle(WRRC)
